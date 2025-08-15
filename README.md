@@ -27,7 +27,7 @@ A machine learning–powered irrigation system that predicts which farm parcels 
 ---
 
 ##  Preview
-![Website Screenshot](./public/screenshot.pn)
+![Website Screenshot](Smart_Irrigation_Image)
 
 ---
 
