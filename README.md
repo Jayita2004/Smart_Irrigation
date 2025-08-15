@@ -31,3 +31,10 @@ cd Smart_Irrigation
 ```
 ### 2. Install all the dependencies 
 ### 3. Run in Notebook
+
+---
+
+##  Live Demo
+The live version of the Smart Irrigation System here:
+🔗 [Smart Irrigation on Streamlit](https://smartirrigation04.streamlit.app/)
+
