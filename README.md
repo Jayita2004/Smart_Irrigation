@@ -23,9 +23,6 @@ A machine learning–powered irrigation system that predicts which farm parcels 
 
 ---
 
-
----
-
 ##  How to Run
 ### 1. Clone the repository
 ```bash
