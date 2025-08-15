@@ -44,4 +44,4 @@ git clone https://github.com/Jayita2004/Smart_Irrigation.git
 cd Smart_Irrigation
 ```
 ### 2. Install all the dependencies 
-### 3. Run in Noteb
+### 3. Run in Notebook
