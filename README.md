@@ -15,7 +15,7 @@ A machine learning–powered irrigation system that predicts which farm parcels 
 
 ---
 
-##  Technologies Used
+## Technologies Used
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Scikit-learn** (RandomForestClassifier, MultiOutputClassifier, MinMaxScaler)
 - **Joblib** for model persistence
@@ -24,6 +24,11 @@ A machine learning–powered irrigation system that predicts which farm parcels 
 - **Git** & **GitHub** for version control
 - **Visual Studio Code (VS Code)** as the development environment
   
+---
+
+##  Preview
+![Website Screenshot](./public/screenshot.pn)
+
 ---
 
 ##  How to Run
