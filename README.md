@@ -31,6 +31,12 @@ A machine learning–powered irrigation system that predicts which farm parcels 
 
 ---
 
+##  Live Demo
+The live version of the Smart Irrigation System here:
+🔗 [Smart Irrigation on Streamlit](https://smartirrigation04.streamlit.app/)
+
+---
+
 ##  How to Run
 ### 1. Clone the repository
 ```bash
@@ -41,8 +47,3 @@ cd Smart_Irrigation
 ### 3. Run in Notebook
 
 ---
-
-##  Live Demo
-The live version of the Smart Irrigation System here:
-🔗 [Smart Irrigation on Streamlit](https://smartirrigation04.streamlit.app/)
-
